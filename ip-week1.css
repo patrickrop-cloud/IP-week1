@@ -2,13 +2,13 @@ html {
 	margin: 0;
 	padding: 0;
 	}
-body {
+body    {
     font-family: 'Times New Roman', Times, serif;
 	color:rgb(28, 149, 197); 
 	background:#89c052
 	margin: 0; 
 	padding: 0;
-	}
+    	}
 p { 
 	margin-top: 0; 
 	text-align: justify;
@@ -22,7 +22,6 @@ h1 {
     font-family:'Times New Roman', Times, serif; 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	
 	}
 h2 {
     text-align: left;
