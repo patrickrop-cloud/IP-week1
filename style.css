@@ -1,15 +1,15 @@
-html {
+html{
 	margin: 0;
 	padding: 0;
 	}
-body    {
+body{
     font-family: 'Times New Roman', Times, serif;
-	color:rgb(28, 149, 197); 
-	background:#89c052
+	color: white; 
+	background:#89c052;
 	margin: 0; 
 	padding: 0;
-    	}
-p { 
+    }
+p   { 
 	margin-top: 0; 
 	text-align: justify;
     font-size: medium;
@@ -19,8 +19,8 @@ p {
 h1 {
     text-align: center;
     font-size: 210%;
-    font-family:'Times New Roman', Times, serif; 1.4em georgia, sans-serif;
-	letter-spacing: 1px; 
+    font-family:'Times New Roman', Times, serif 1.4em, georgia, sans-serif;
+	letter-spacing:1px; 
 	margin-bottom: 0; 
 	}
 h2 {
@@ -28,7 +28,7 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 200%;
     color: rgb(78, 7, 109);
-}
+    }
 h3  {
     text-align: left;
     color: brown;
@@ -42,7 +42,7 @@ h4  {
     font-size: 100%;
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
-}
+    }
 
 p   {
     text-align: left;
